@@ -5,8 +5,14 @@ Meu nome é Matheus Veloso, tenho 20 anos, Brasileiro e sou estudante do 6º per
 No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),assistir filmes(🎞️) e séries(📺),ler livros(📚),ouvir música(🎵) e jogar alguns jogos.
 
 Você gostaria de me encontrar?
+[![Email Badge](https://img.shields.io/badge/Email-mthsveloso@hotmail.com-blue)](mthsveloso@hotmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-veloso-da-silva-a1a6a4180/)](https://www.linkedin.com/in/matheus-veloso-da-silva-a1a6a4180/)
+
+
+
+
+
 <!--
 **Matheusveloso/MatheusVeloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
