@@ -6,7 +6,7 @@ No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),ass
 
 Você gostaria de me encontrar?
 
-[![Email Badge](https://img.shields.io/badge/Email-mthsveloso@hotmail.com-blue)]
+[![Email Badge](https://img.shields.io/badge/Email-mthsveloso@hotmail.com-blue)](https://outlook.live.com/owa/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-veloso-da-silva-a1a6a4180/)](https://www.linkedin.com/in/matheus-veloso-da-silva-a1a6a4180/)
 
 
