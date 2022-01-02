@@ -1,6 +1,6 @@
 ### Olá Pessoas 👋
 
-Meu nome é Matheus Veloso, tenho 21 anos, Brasileiro e sou estudante do 7º período de Ciência da Computação. Atualmente, busco uma oportunidadede de Estágio ou CLT na área de Desenvolvimento, Banco de Dados ou na área de Análise de Sistemas ou de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Front-end e Back-end e sempre amei aprender novas tecnologias.
+Meu nome é Matheus Veloso, tenho 21 anos, Brasileiro e sou formado em Ciência da Computação. Atualmente, busco uma oportunidadede de CLT na área de Desenvolvimento, Banco de Dados ou na área de Análise de Sistemas ou de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Front-end e Back-end e sempre amei aprender novas tecnologias.
 
 No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),assistir filmes(🎞️) e séries(📺),ler livros(📚),ouvir música(🎵) e jogar alguns jogos.
 
@@ -14,6 +14,7 @@ No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),ass
 ### 🌱 Atualmente estou Aprendendo...
 
 - Python
+- Oracle Hyperion(PBCS, Integração, Migração, Validação de objetos, criação de jobs, e etc)
 - SQL
 - MySQL
 - SQL Server
