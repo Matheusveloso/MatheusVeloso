@@ -1,6 +1,6 @@
 ### Olá Pessoas 👋
 
-Meu nome é Matheus Veloso, tenho 22 anos, Brasileiro e sou formado em Ciência da Computação. Atualmente, busco uma oportunidadede de CLT na área de Desenvolvimento, Banco de Dados ou na área de Análise de Sistemas ou de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Front-end e Back-end e sempre amei aprender novas tecnologias.
+Meu nome é Matheus Veloso, tenho 23 anos, Brasileiro e sou formado em Ciência da Computação. Atualmente, estudante de mestrado na UFF - Universidade Federal Fluminense. Busco uma oportunidadede de CLT na área de Banco de Dados, Análise de Sistemas ou de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Front-end e Back-end e sempre amei aprender novas tecnologias.
 
 No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),assistir filmes(🎞️) e séries(📺),ler livros(📚),ouvir música(🎵) e jogar alguns jogos.
 
@@ -18,6 +18,6 @@ No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),ass
 - SQL
 - MySQL
 - SQL Server
-- Java
+- Power BI
 - HTML
 - CSS
