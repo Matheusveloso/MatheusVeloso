@@ -1,6 +1,6 @@
 ### Olá Pessoas 👋
 
-Meu nome é Matheus Veloso, tenho 23 anos, Brasileiro e sou formado em Ciência da Computação. Atualmente, estudante de mestrado na UFF - Universidade Federal Fluminense. Busco uma oportunidadede de CLT na área de Banco de Dados, Análise de Sistemas ou de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Front-end e Back-end e sempre amei aprender novas tecnologias.
+Meu nome é Matheus Veloso, tenho 23 anos, Brasileiro e sou formado em Ciência da Computação. Atualmente, estudante de mestrado na UFF - Universidade Federal Fluminense. Busco uma oportunidadede de CLT na área de Banco de Dados, Análise de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Machine Learning e Back-end. Sempre amei aprender novas tecnologias.
 
 No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),assistir filmes(🎞️) e séries(📺),ler livros(📚),ouvir música(🎵) e jogar alguns jogos.
 
@@ -11,7 +11,7 @@ No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),ass
 ![Telefone Badge](https://img.shields.io/static/v1?label=Telefone%20p/%20Contato&message=(21)995324404&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-veloso-da-silva-a1a6a4180/)](https://www.linkedin.com/in/matheus-veloso-da-silva-a1a6a4180/)
 
-### 🌱 Atualmente estou Aprendendo...
+### 🌱 Experiência profissional com:
 
 - Python
 - Oracle Hyperion(PBCS, Integração, Migração, Validação de objetos, criação de jobs, e etc)
@@ -19,5 +19,5 @@ No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),ass
 - MySQL
 - SQL Server
 - Power BI
-- HTML
-- CSS
+- PySpark
+- Docker
