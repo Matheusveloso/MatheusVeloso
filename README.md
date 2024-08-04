@@ -1,6 +1,6 @@
 ### Olá Pessoas 👋
 
-Meu nome é Matheus Veloso, tenho 23 anos, Brasileiro e sou formado em Ciência da Computação. Atualmente, estudante de mestrado na UFF - Universidade Federal Fluminense. Busco uma oportunidadede de CLT na área de Banco de Dados, Análise de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Machine Learning e Back-end. Sempre amei aprender novas tecnologias.
+Meu nome é Matheus Veloso, tenho 24 anos, Brasileiro e sou formado em Ciência da Computação e em MBA de Big Data e Inteligência Competitiva. Atualmente, sou estudante de mestrado de ciência da computação na UFF - Universidade Federal Fluminense. Busco uma oportunidadede de CLT na área de Banco de Dados, Análise de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Machine Learning e Back-end. Sempre amei aprender novas tecnologias.
 
 No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),assistir filmes(🎞️) e séries(📺),ler livros(📚),ouvir música(🎵) e jogar alguns jogos.
 
@@ -13,11 +13,12 @@ No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),ass
 
 ### 🌱 Experiência profissional com:
 
-- Python
-- Oracle Hyperion(PBCS, Integração, Migração, Validação de objetos, criação de jobs, e etc)
-- SQL
-- MySQL
-- SQL Server
-- Power BI
-- PySpark
-- Docker
+- Python, SQL, Power BI, PySpark;
+- DBMS (Oracle PL/SQL, SQL Server, PostgreSQL, MySQL);
+- Data Visualization, Dashboards;
+- ETL, APIs, Web Scraping;
+- Machine Learning;
+- Data Analysis, Data Modeling;
+- Docker, GIT;
+- Oracle Hyperion(EPM, Integração, Migração, Validação de objetos, criação de jobs, e etc)
+- Methodology: Scrum, Kanban.
