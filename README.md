@@ -1,6 +1,6 @@
 ### Olá Pessoas 👋
 
-Meu nome é Matheus Veloso, tenho 24 anos, Brasileiro e sou formado em Ciência da Computação e em MBA de Big Data e Inteligência Competitiva. Atualmente, sou estudante de mestrado de ciência da computação na UFF - Universidade Federal Fluminense. Busco uma oportunidadede de CLT na área de Banco de Dados, Análise de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Machine Learning e Back-end. Sempre amei aprender novas tecnologias.
+Meu nome é Matheus Veloso, tenho 24 anos, Brasileiro e sou formado em Ciência da Computação e em MBA de Big Data e Inteligência Competitiva. Atualmente, sou estudante de mestrado de ciência da computação na UFF - Universidade Federal Fluminense. Busco uma oportunidadede de CLT na área de Banco de Dados, Análise de Dados. Sou apaixonado por tecnologia, então desenvolvi alguns projetos de Análise de Dados, Machine Learning e Engenharia de Dados(Big Data). Sempre amei aprender novas tecnologias.
 
 No meu tempo livre eu gosto de jogar (e assistir) futebol e basquete(⚽️),assistir filmes(🎞️) e séries(📺),ler livros(📚),ouvir música(🎵) e jogar alguns jogos.
 
